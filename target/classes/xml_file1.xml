@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<database>
+    <employees>
+		<employee surname="Ермаков" name="Иван" year="1993" phone="+7(937)970-34-93" manager="Климова Ольга"/>
+		<employee surname="Емцов" name="Ростислав" year="1995" phone="+7(923)144-71-16" manager="Инюшкин Сергей"/>
+	</employees>
+	<managers>
+		<manager surname="Климова" name="Ольга" year="1990" phone="+7(987)306-51-23" department="QA" />
+		<manager surname="Инюшкин" name="Сергей" year="1985" phone="+7(987)305-61-23" department="Dev-Ops" />		
+	</managers>
+</database>
